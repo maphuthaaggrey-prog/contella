@@ -18,7 +18,7 @@ const Header = () => {
             <div className="navbar">
                 <nav>
 
-                        <Link to="https://maphuthaaggrey-prog.github.io/contella/"><img src={Logo} className='logo' alt='app logo'></img></Link>
+                        <Link to="/"><img src={Logo} className='logo' alt='app logo'></img></Link>
                         <button className='searchBtn'><Link to="/search">Search your content, your favourite streamer or content creators...</Link></button>
                         <Link to="/contact"><button className='borderBtn'>Contact us</button></Link>
                         <div className="div" style={{display: 'flex', alignItems: 'center'}}>
