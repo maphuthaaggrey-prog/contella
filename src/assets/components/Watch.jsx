@@ -13,7 +13,7 @@ const Watch = () => {
   useEffect(() => {
     const fetchVideo = async () => {
       try {
-        const response = await fetch(`http://localhost:3000/videos/${id}`);
+        const response = await fetch(`https://interesting-spotted-lemongrass.glitch.me/videos/${id}`);
         if (!response.ok) throw new Error('Video not found');
         const data = await response.json();
         setVideo(data);
