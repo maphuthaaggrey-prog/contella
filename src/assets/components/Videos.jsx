@@ -11,7 +11,7 @@ const Videos = () => {
   useEffect(() => {
     const fetchVideos = async () => {
       try {
-        const response = await fetch('https://interesting-spotted-lemongrass.glitch.me');
+        const response = await fetch('https://dot-organic-crate.glitch.me');
         const data = await response.json();
         setVideos(data);
         setLoading(false);
