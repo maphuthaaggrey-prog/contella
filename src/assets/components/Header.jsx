@@ -18,7 +18,7 @@ const Header = () => {
             <div className="navbar">
                 <nav>
 
-                        <Link to="/contella"><img src={Logo} className='logo' alt='app logo'></img></Link>
+                        <Link to="https://maphuthaaggrey-prog.github.io/contella/"><img src={Logo} className='logo' alt='app logo'></img></Link>
                         <button className='searchBtn'><Link to="/search">Search your content, your favourite streamer or content creators...</Link></button>
                         <Link to="/contact"><button className='borderBtn'>Contact us</button></Link>
                         <div className="div" style={{display: 'flex', alignItems: 'center'}}>
@@ -34,7 +34,7 @@ const Header = () => {
                 <div id ="sidebar" className={menuOpen ? "open" : ""}>
 
 
-                                <NavLink to="/contella" onClick={toggleMenu}>
+                                <NavLink to="https://maphuthaaggrey-prog.github.io/contella/" onClick={toggleMenu}>
                                     <svg xmlns="http://www.w3.org/2000/svg"  
                                      viewBox="0 0 50 50" 
                                      width="20px" 

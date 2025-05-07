@@ -27,7 +27,7 @@ function AppContent() {
       <Header />
       <ScrollToTop />
       <Routes>
-        <Route path="/contella" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/videos" element={<AllVideos />} />
         <Route path="/news" element={<AllNews />} />
