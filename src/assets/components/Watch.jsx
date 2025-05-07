@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import MoreOfCreator from './MoreOfCreator';
+import { videos as videoData } from './data/videos'; // ✅ import local videos.js
 
 const Watch = () => {
   const { id } = useParams();
@@ -11,20 +12,17 @@ const Watch = () => {
   const [pendingUrl, setPendingUrl] = useState(null);
 
   useEffect(() => {
-    const fetchVideo = async () => {
-      try {
-        const response = await fetch(`https://dot-organic-crate.glitch.me/videos/${id}`);
-        if (!response.ok) throw new Error('Video not found');
-        const data = await response.json();
-        setVideo(data);
-      } catch (error) {
-        setError('Failed to load video.');
-      } finally {
-        setLoading(false);
+    const findVideo = () => {
+      const found = videoData.find(v => String(v.id) === String(id)); // ensure string match
+      if (found) {
+        setVideo(found);
+      } else {
+        setError('Video not found.');
       }
+      setLoading(false);
     };
 
-    fetchVideo();
+    findVideo();
   }, [id]);
 
   useEffect(() => {

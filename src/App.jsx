@@ -16,11 +16,9 @@ import Banner from './assets/components/Banner'
 import Admin from './assets/admin_form/Admin'
 function AppContent() {
   const location = useLocation();
-
   const hideFooterRoutes = ['/contact', '/admin']; 
   const hideFooterAndBannerRoutes = ['/admin']; 
   const hideBannerRoutes = ['/search']; 
-
   const shouldHideFooter = hideFooterRoutes.includes(location.pathname);
   const shouldHideBanner = hideBannerRoutes.includes(location.pathname);
 
@@ -29,7 +27,7 @@ function AppContent() {
       <Header />
       <ScrollToTop />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/contella" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/videos" element={<AllVideos />} />
         <Route path="/news" element={<AllNews />} />
