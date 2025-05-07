@@ -233,11 +233,6 @@ const AdminUpload = () => {
 
           <button type="submit">Upload</button>
         </form>
-
-        <div className="array-of-videos" style={{ display: 'none' }}>
-          <h3>Current Videos</h3>
-          <pre>{JSON.stringify(videos, null, 2)}</pre>
-        </div>
       </div>
     </div>
   );
