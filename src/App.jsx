@@ -1,5 +1,5 @@
 import Header from './assets/components/Header'
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import Home from './assets/pages/Home'
 import Footer from './assets/components/Footer'
 import Watch from './assets/components/Watch'
@@ -28,16 +28,16 @@ function AppContent() {
       <ScrollToTop />
       <Routes>
         <Route path="/contella" element={<Home />} />
-        <Route path="/contella/contact" element={<Contact />} />
-        <Route path="/contella/videos" element={<AllVideos />} />
-        <Route path="/contella/news" element={<AllNews />} />
-        <Route path="/contella/creators" element={<ContentCreator />} />
-        <Route path="/contella/search" element={<SearchPage />} />
-        <Route path="/contella/termsandconditions" element={<Terms />} />
-        <Route path="/contella/watch/:id" element={<Watch />} />
-        <Route path="/contella/news/:id" element={<NewsDetails />} />
-        <Route path="/contella/creator/:id" element={<Biography />} />
-        <Route path="/contella/admin" element={<Admin />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/videos" element={<AllVideos />} />
+        <Route path="/news" element={<AllNews />} />
+        <Route path="/creators" element={<ContentCreator />} />
+        <Route path="/search" element={<SearchPage />} />
+        <Route path="/termsandconditions" element={<Terms />} />
+        <Route path="/watch/:id" element={<Watch />} />
+        <Route path="/news/:id" element={<NewsDetails />} />
+        <Route path="/creator/:id" element={<Biography />} />
+        <Route path="/admin" element={<Admin />} />
 
       </Routes>
 
