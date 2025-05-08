@@ -22,6 +22,24 @@
     --html-backgroud-color: #fff;
 }
 
+.loading-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+  
+  .loading-gif {
+    width: 80px; 
+    height: auto;
+  }
+
 
 ::-webkit-scrollbar {
     width: 5px; 
