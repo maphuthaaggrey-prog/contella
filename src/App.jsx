@@ -14,10 +14,10 @@ import AllNews from './assets/components/AllNews';
 import ContentCreator from './assets/components/ContentCreator';
 import Banner from './assets/components/Banner'
 import Admin from './assets/admin_form/Admin'
+import Lekompo from './assets/components/Lekompo';
 function AppContent() {
   const location = useLocation();
   const hideFooterRoutes = ['/contact', '/admin']; 
-  const hideFooterAndBannerRoutes = ['/admin']; 
   const hideBannerRoutes = ['/search']; 
   const shouldHideFooter = hideFooterRoutes.includes(location.pathname);
   const shouldHideBanner = hideBannerRoutes.includes(location.pathname);
@@ -38,6 +38,7 @@ function AppContent() {
         <Route path="/news/:id" element={<NewsDetails />} />
         <Route path="/creator/:id" element={<Biography />} />
         <Route path="/admin" element={<Admin />} />
+        <Route path="/lekompo" element={<Lekompo />} />
 
       </Routes>
 

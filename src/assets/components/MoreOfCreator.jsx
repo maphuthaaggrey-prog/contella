@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import play from '../icons/HeroiconsSolidPlay.svg';
 import { videos as videoData } from '../components/data/videos';
+import { lekompo } from '../components/data/lekompo'; // 👈 import Lekompo data
 
 const MoreOfCreator = ({ creator, excludeId }) => {
   const [videos, setVideos] = useState([]);
@@ -10,8 +11,10 @@ const MoreOfCreator = ({ creator, excludeId }) => {
 
   useEffect(() => {
     try {
+      // 👇 Combine data sources
+      const combinedData = [...videoData, ...lekompo];
 
-      const filtered = videoData.filter(
+      const filtered = combinedData.filter(
         (video) => video.author === creator && String(video.id) !== String(excludeId)
       );
 
@@ -55,9 +58,9 @@ const MoreOfCreator = ({ creator, excludeId }) => {
           </div>
         ))}
       </div>
-      <Link to="/videos">
-        <p className="see-all">See all</p>
-      </Link>
+
+        <p className="see-all" style={{visibility: 'hidden'}}>See all</p>
+
     </div>
   );
 };

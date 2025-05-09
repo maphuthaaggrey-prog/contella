@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import MoreOfCreator from './MoreOfCreator';
-import { videos as videoData } from './data/videos'; // ✅ import local videos.js
-
+import { videos as videoData } from './data/videos'; 
+import { lekompo as lekompoData } from './data/lekompo';
 const Watch = () => {
   const { id } = useParams();
   const [video, setVideo] = useState(null);
@@ -13,18 +13,22 @@ const Watch = () => {
 
   useEffect(() => {
     const findVideo = () => {
-      const found = videoData.find(v => String(v.id) === String(id)); // ensure string match
+      const allVideos = [...videoData, ...lekompoData];
+      const found = allVideos.find(v => String(v.id) === String(id));
+  
       if (found) {
         setVideo(found);
       } else {
         setError('Video not found.');
       }
+  
       setLoading(false);
     };
-
+  
     findVideo();
   }, [id]);
 
+  
   useEffect(() => {
     const handleExternalLinkClick = (e) => {
       const link = e.target.closest('a[target="_blank"]');
