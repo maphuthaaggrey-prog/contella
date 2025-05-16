@@ -623,4 +623,40 @@ export const videos = [
   "channel": "https://www.youtube.com/@ghosthlubi",
   "date": "April 27, 2025"
 },
+{
+  "id": 176545343635,
+  "author": "Piano Pulse",
+  "type": "Podcast",
+  "title": "The Dark Side of Amapiano, MAPHORISA Calls Out Podcasts, Nadia Nakai, Bogus Awards, Industry Drama",
+  "profile": "https://yt3.ggpht.com/oroxzEPE5giQ8hUcYUFqsmVcxZjxlP0KOzgOf1prL025Q-jxmhynAtQCZn0U2c3W0BdcTvs3=s176-c-k-c0x00ffffff-no-rj-mo",
+  "url": "https://www.youtube.com/watch?v=BlZvNHjxqug",
+  "thumbnail": "https://i.ytimg.com/vi/BlZvNHjxqug/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApS1GvhSNBeqBQcZVxMfviEFwLgQ",
+  "subscribers": "1.57M",
+  "channel": "https://www.youtube.com/@podcastandchillnetwork",
+  "date": "May 13, 2025"
+},
+{
+  "id": 13563435778,
+  "author": "Spreading Humours",
+  "type": "Podcast",
+  "title": "Circumsision, Soliyolis, Musa Khawula, Bantweezy gone wild tour",
+  "profile": "https://yt3.ggpht.com/oroxzEPE5giQ8hUcYUFqsmVcxZjxlP0KOzgOf1prL025Q-jxmhynAtQCZn0U2c3W0BdcTvs3=s176-c-k-c0x00ffffff-no-rj-mo",
+  "url": "https://www.youtube.com/watch?v=2_nhabL_Yes",
+  "thumbnail": "https://i.ytimg.com/vi/2_nhabL_Yes/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRVHtje_g3Mu7R7OzOjLUiZAhLeQ",
+  "subscribers": "1.57M",
+  "channel": "https://www.youtube.com/@podcastandchillnetwork",
+  "date": "May 11, 2025"
+},
+{
+  "id": 1453654768,
+  "author": "Podcast and Chill",
+  "type": "Podcast",
+  "title": "TATZ NKONZO on Afrikaner Refugees, Temptation Island SA, Khaya Mthethwa,Kagiso Rabada,Funeral Review",
+  "profile": "https://yt3.ggpht.com/oroxzEPE5giQ8hUcYUFqsmVcxZjxlP0KOzgOf1prL025Q-jxmhynAtQCZn0U2c3W0BdcTvs3=s176-c-k-c0x00ffffff-no-rj-mo",
+  "url": "https://www.youtube.com/watch?v=D80Iftm7ZcY",
+  "thumbnail": "https://i.ytimg.com/vi/D80Iftm7ZcY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuKRo3bEeFTSZ-5cSQegfLXHptHg",
+  "subscribers": "1.57M",
+  "channel": "https://www.youtube.com/@podcastandchillnetwork",
+  "date": "May 15, 2025"
+},
 ];
