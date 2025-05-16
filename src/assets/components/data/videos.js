@@ -659,4 +659,89 @@ export const videos = [
   "channel": "https://www.youtube.com/@podcastandchillnetwork",
   "date": "May 15, 2025"
 },
+
+{
+  "id": 1746551344276,
+  "author": "Open Chats",
+  "type": "Podcast",
+  "title": "🚨 Wild Confessions, BBLs, Truth or Drink, Mansa Mayne, Cheating & More Drama - Bombs & Banter Ep. 1",
+  "url": "https://www.youtube.com/watch?v=Gc-Kf7hzKKo",
+  "profile": "https://yt3.ggpht.com/1ZgfDEDiAEti-DOag95F5GvrcQAQb3P9Qtb5UWyIEjlawj4JNkC1YlPbU9wos-b_mG19nI0G=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i.ytimg.com/vi/Gc-Kf7hzKKo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNCnATPLTjFg0UZjbhhJ7fHlF17g",
+  "subscribers": "320k",
+  "channel": "https://www.youtube.com/@OpenChatsPodcast",
+  "date": "May 8, 2025"
+},
+{
+  "id": 1746551344276,
+  "author": "Open Chats",
+  "type": "Podcast",
+  "title": "Soweto Derby, Scott Maphuma Drama, Barcelona, 100 Men vs Gorilla & More - Open Chats Podcast Ep.119",
+  "url": "https://www.youtube.com/watch?v=tYpp_maXNDg",
+  "profile": "https://yt3.ggpht.com/1ZgfDEDiAEti-DOag95F5GvrcQAQb3P9Qtb5UWyIEjlawj4JNkC1YlPbU9wos-b_mG19nI0G=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i.ytimg.com/vi/tYpp_maXNDg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPWI2E4Gb4XJYGM0ZlvWeTjMnQNA",
+  "subscribers": "320k",
+  "channel": "https://www.youtube.com/@OpenChatsPodcast",
+  "date": "May 12, 2025"
+},
+{
+  "id": 1746551344276,
+  "author": "Open Chats",
+  "type": "Podcast",
+  "title": "🚨 Bruce & Mansa Mayne Exposed, Truth or Dare, Cheating Experiences & More - Bombs & Banter Ep. 2",
+  "url": "https://www.youtube.com/watch?v=EyZUChp1WOQ",
+  "profile": "https://yt3.ggpht.com/1ZgfDEDiAEti-DOag95F5GvrcQAQb3P9Qtb5UWyIEjlawj4JNkC1YlPbU9wos-b_mG19nI0G=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i9.ytimg.com/vi/EyZUChp1WOQ/hqdefault_custom_3.jpg?sqp=CKi9ncEG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXGbkAaBz0-coQaRBFPJGROqhccQ",
+  "subscribers": "320k",
+  "channel": "https://www.youtube.com/@OpenChatsPodcast",
+  "date": "May 15, 2025"
+},
+{
+  "id": 189643495954,
+  "author": "Ghost Hlubi",
+  "type": "Vlog",
+  "title": "I BOUGHT A PENTHOUSE AT 23!!",
+  "url": "https://www.youtube.com/watch?v=LNWS2pVeOCE",
+  "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnmJt61uxn8RTBIEr48i4GIWy0375Xl9kp26mfWf8zqVU=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i.ytimg.com/vi/LNWS2pVeOCE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-HT7TOgWqNjxIJStPPEPWN51wCQ",
+  "subscribers": "1M",
+  "channel": "https://www.youtube.com/@ghosthlubi",
+  "date": "May 15, 2025"
+},
+{
+  "id": 189643495954,
+  "author": "Ghost Hlubi",
+  "type": "Vlog",
+  "title": "24 Hours in The Hood with My BMW 325i !!",
+  "url": "https://www.youtube.com/watch?v=H8Lb_MXfzYQ",
+  "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnmJt61uxn8RTBIEr48i4GIWy0375Xl9kp26mfWf8zqVU=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i.ytimg.com/vi/H8Lb_MXfzYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbwzonA1LXugQTUWShQzLb_USu7Q",
+  "subscribers": "1M",
+  "channel": "https://www.youtube.com/@ghosthlubi",
+  "date": "May 14, 2025"
+},
+{
+  "id": 189643664454,
+  "author": "Ghost Hlubi",
+  "type": "Vlog",
+  "title": "We Broke Up.....",
+  "url": "https://www.youtube.com/watch?v=igklPh7dEFE",
+  "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnmJt61uxn8RTBIEr48i4GIWy0375Xl9kp26mfWf8zqVU=s176-c-k-c0x00ffffff-no-rj-mo",
+  "thumbnail": "https://i.ytimg.com/vi/igklPh7dEFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSXtU9xyHxMvMxCHr26PQ4Z-5haw",
+  "subscribers": "1M",
+  "channel": "https://www.youtube.com/@ghosthlubi",
+  "date": "May 10, 2025"
+},
+{
+  "id": 15898764878,
+  "author": "Sonwabile",
+  "type": "Vlog",
+  "title": "KIMBERLY IS ACTUALLY A REAL PLACE",
+  "profile": "https://yt3.googleusercontent.com/xcVx5LSUT5iv0DEN3RS0flOSqStdPYLdRIj9GjzPZYNh8x7QbQgl-9FjDe5UDs8FmdFga68ewQ=s160-c-k-c0x00ffffff-no-rj",
+  "url": "https://www.youtube.com/watch?v=0ulMLvlzxII",
+  "thumbnail": "https://i.ytimg.com/vi/0ulMLvlzxII/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCew8dE1-J86n_sKJrtWo79dZfohQ",
+  "subscribers": "265K",
+  "channel": "https://www.youtube.com/@SonwabileDovii",
+  "date": "May 11, 2025"
+},
 ];
