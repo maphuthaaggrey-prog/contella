@@ -684,18 +684,7 @@ export const videos = [
   "channel": "https://www.youtube.com/@OpenChatsPodcast",
   "date": "May 12, 2025"
 },
-{
-  "id": 1746551344276,
-  "author": "Open Chats",
-  "type": "Podcast",
-  "title": "🚨 Bruce & Mansa Mayne Exposed, Truth or Dare, Cheating Experiences & More - Bombs & Banter Ep. 2",
-  "url": "https://www.youtube.com/watch?v=EyZUChp1WOQ",
-  "profile": "https://yt3.ggpht.com/1ZgfDEDiAEti-DOag95F5GvrcQAQb3P9Qtb5UWyIEjlawj4JNkC1YlPbU9wos-b_mG19nI0G=s176-c-k-c0x00ffffff-no-rj-mo",
-  "thumbnail": "https://i9.ytimg.com/vi/EyZUChp1WOQ/hqdefault_custom_3.jpg?sqp=CKi9ncEG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXGbkAaBz0-coQaRBFPJGROqhccQ",
-  "subscribers": "320k",
-  "channel": "https://www.youtube.com/@OpenChatsPodcast",
-  "date": "May 15, 2025"
-},
+
 {
   "id": 189643495954,
   "author": "Ghost Hlubi",
