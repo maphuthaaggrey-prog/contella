@@ -3,7 +3,7 @@ export const lekompo = [
     "id": "363575845",
     "author": "Shandesh Music",
     "type": "Music",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
    
@@ -17,7 +17,7 @@ export const lekompo = [
     "author": "Shandesh Music",
     "type": "Visuals",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
 
     "thumbnail": "https://i.ytimg.com/vi/O25uwLqtKqA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIDQobTAP&rs=AOn4CLDvYF5rxUi3Rf8-zDihSj-scFnDPg",    
@@ -30,7 +30,7 @@ export const lekompo = [
     "author": "Shandesh Music",
     "type": "Music",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
 
     "thumbnail": "https://i.ytimg.com/vi/IGbTRq-V00U/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLCazjngMYwPG2-gGSBXJWhy8TzDaw",    
@@ -43,7 +43,7 @@ export const lekompo = [
     "author": "Shandesh Music",
     "type": "Music",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
 
     "thumbnail": "https://i.ytimg.com/vi/iuz5V66htO4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLBwSm2DPXwCKI8kQxRit5jZ51W81A",    
@@ -56,7 +56,7 @@ export const lekompo = [
     "author": "Shandesh Music",
     "type": "Music",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
 
     "thumbnail": "https://i.ytimg.com/vi/zJFE1PN8YKc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARh_IEkoEzAP&rs=AOn4CLB-qwnxpwkuismHZ69IMePl3RAxjg",    
@@ -69,7 +69,7 @@ export const lekompo = [
     "author": "Shandesh Music",
     "type": "Music",
     "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
-    "subscribers": "75K",
+    "subscribers": "102K",
     "channel": "https://www.youtube.com/@shandeshthevocalist",
 
     "thumbnail": "https://i.ytimg.com/vi/rkfD4wfVoJo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARg_IF4oZTAP&rs=AOn4CLBUaQ69xqwErsRSqYKj7M_DNfsuzQ",    
@@ -318,5 +318,17 @@ export const lekompo = [
     "title": "Dikhotho Hala Hitt (P.L.HC1) (feat. Prince Zulu, Kaycherlow fam & Cliff Kayden)",
     "url": "https://www.youtube.com/watch?v=MtLZIgouIag",
     "date": "December 21, 2024"
+  },
+  {
+    "id": "1120511325",
+    "author": "Shandesh Music",
+    "type": "Music",
+    "profile": "https://yt3.googleusercontent.com/6wUzD33l0MJ3K3AHgbMubsrS1LW82cgfNhLObtX1DOYHQT18HfmO74RxUCcKOgA3nAoNeTe35HQ=s160-c-k-c0x00ffffff-no-rj",
+    "subscribers": "102K",
+    "channel": "https://www.youtube.com/@shandeshthevocalist",
+    "thumbnail": "https://i.ytimg.com/vi/IINGirC34wg/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLAQz9SjYIL8DFKWZxpM7YaRv6BsUQ",    
+    "title": "Shandesh - Warning feat. Shebeshxt, KING SALAH, Kaycherlow NLL (Official Audio)",
+    "url": "https://www.youtube.com/watch?v=IINGirC34wg",
+    "date": "May 23, 2025"
   },
 ]
