@@ -733,4 +733,40 @@ export const videos = [
   "channel": "https://www.youtube.com/@SonwabileDovii",
   "date": "May 11, 2025"
 },
+{
+  "id": 158987698756,
+  "author": "DJ SLIQE",
+  "type": "Music",
+  "title": "The Mxr Sliqe B2B Mashbeatz Hip Hop Mix",
+  "profile": "https://yt3.googleusercontent.com/1cWIsc4vnSE-tXo7IX8miSOrh-M1BVupoGOhefF5nAUmFD4_ukCiCg50Z8cJBkfKFp93hSVtjA=s160-c-k-c0x00ffffff-no-rj",
+  "url": "https://www.youtube.com/watch?v=BFPOJAmYXic&t=208s",
+  "thumbnail": "https://i.ytimg.com/vi/BFPOJAmYXic/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIOpw_XzGjuLGHrzp-2w3ovFjRvA",
+  "subscribers": "73K",
+  "channel": "https://www.youtube.com/@djsliqe2815",
+  "date": "May 30, 2025"
+},
+{
+  "id": 1876565908756,
+  "author": "DJ SLIQE",
+  "type": "Music",
+  "title": "The Mxr IV3 Capsule SA Hip Hop Mix",
+  "profile": "https://yt3.googleusercontent.com/1cWIsc4vnSE-tXo7IX8miSOrh-M1BVupoGOhefF5nAUmFD4_ukCiCg50Z8cJBkfKFp93hSVtjA=s160-c-k-c0x00ffffff-no-rj",
+  "url": "https://www.youtube.com/watch?v=idUuEcdGqbo",
+  "thumbnail": "https://i.ytimg.com/vi/idUuEcdGqbo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAr_MUlPI0JoOFL8V7-t6bZvOeQEw",
+  "subscribers": "73K",
+  "channel": "https://www.youtube.com/@djsliqe2815",
+  "date": "December 19, 2024"
+},
+{
+  "id": 1985478642145,
+  "author": "DJ SLIQE",
+  "type": "Music",
+  "title": "The Mxr Sliqe B2B Rarri Throwback SA Hip Hop Mix",
+  "profile": "https://yt3.googleusercontent.com/1cWIsc4vnSE-tXo7IX8miSOrh-M1BVupoGOhefF5nAUmFD4_ukCiCg50Z8cJBkfKFp93hSVtjA=s160-c-k-c0x00ffffff-no-rj",
+  "url": "https://www.youtube.com/watch?v=f0J_4lKvrZ8",
+  "thumbnail": "https://i.ytimg.com/vi/f0J_4lKvrZ8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAai-Xlgw3Kyy75xBY7i89Y-c0Npw",
+  "subscribers": "73K",
+  "channel": "https://www.youtube.com/@djsliqe2815",
+  "date": "April 10, 2024"
+},
 ];
