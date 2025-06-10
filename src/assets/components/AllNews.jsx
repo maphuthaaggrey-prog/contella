@@ -4,7 +4,9 @@ import { Link } from 'react-router-dom';
 
 const AllNews = () => {
   const filterType = 'News';
-  const filteredVideos = news.filter(item => item.type === filterType); 
+  const filteredVideos = news
+  .sort((a, b) => new Date(b.date) - new Date(a.date))
+  .filter(item => item.type === filterType); 
 
   return (
     <div className="wrap">

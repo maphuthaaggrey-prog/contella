@@ -4,12 +4,14 @@ import { news } from './news';
 
 const MainHero = () => {
   const filterType = 'News';
-  const filteredVideos = news.filter(item => item.type === filterType);
+  const filteredVideos = news
+  .sort((a, b) => new Date(b.date) - new Date(a.date))
+  .filter(item => item.type === filterType);
 
   return (
     <>
       <div className="news-grid">
-        {filteredVideos.slice(1, 2).map((newsItem) => (
+        {filteredVideos.slice(0, 1).map((newsItem) => (
           <div key={newsItem.id} className="news-card">
           <Link to={`/news/${newsItem.id}`}>
               <div className="main-container">

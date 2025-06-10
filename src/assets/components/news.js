@@ -18,6 +18,14 @@ import kanekeid1 from '../updates/instasave.website_491437335_18276709804267593_
 import kanekeid2 from '../updates/instasave.website_491442949_18276709813267593_8919121268413056847_n.jpg'
 import kanekeid3 from '../updates/instasave.website_491444398_18276709759267593_338357181211224393_n.jpg'
 import kanekeid4 from '../updates/instasave.website_491446459_18276709795267593_6771214142528470916_n.jpg'
+
+import mashbeatz from '../updates/mashbeatzAlbum.jpg'
+import mashbeatz1 from '../updates/tracklistMash.jpg'
+import mashbeatz2 from '../updates/503020579_18405929884104812_3544424933659379463_n.jpg'
+import mashbeatz3 from '../updates/504159287_18407013742104812_7252811103668718402_n.jpg'
+import mashbeatz4 from '../updates/453172840_889462186339904_3220798209444426742_n.jpg'
+import mashbeatz5 from '../updates/452543977_3824730037854852_285994218288203815_n.jpg'
+
 export const news = [
     {
       id: 1,
@@ -84,6 +92,26 @@ export const news = [
         { image: kanekeid5 },
         { image: kanekeid3 },
         { image: kanekeid4 },
+    ],
+    },
+    {
+      id: 4,
+      title: "MashBeatz Unlocks “The Secret Frequency” Album",
+      type: "News",
+      date: '07 June 2025',
+      author: "@contella",
+      thumbnail: mashbeatz,
+      description: `MashBeatz, a visionary producer from South Africa’s thriving hip-hop scene, has just dropped his latest sonic adventure titled THE SECRET FREQUENCY, a project that expertly blends genres while staying rooted in authentic rap traditions.`,
+      content: [
+        `MashBeatz, a visionary producer from South Africa’s thriving hip-hop scene, has just dropped his latest sonic adventure titled THE SECRET FREQUENCY, a project that expertly blends genres while staying rooted in authentic rap traditions.`,
+        `The thirteen-track collection features an impressive roster of collaborators including heavyweights Nasty C, Stogie T, and Focalistic, each bringing their unique energy to the mix. Priddy Ugly delivers razor-sharp verses while Thato Saul and Touchline add distinctive flows that complement MashBeatz’s carefully crafted soundscapes, creating a dynamic listening experience that showcases the diversity of South African rap talent.`,
+        `https://open.spotify.com/album/30f4LWkDnRrxoJ7pt539M4`,
+        { image: mashbeatz },
+        { image: mashbeatz1 },
+        { image: mashbeatz2 },
+        { image: mashbeatz3 },
+        { image: mashbeatz4 },
+        { image: mashbeatz5 },
     ],
     }
   ];

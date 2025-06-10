@@ -40,7 +40,7 @@ const ContentDisplay = () => {
 
           </div>
         ))}         
-        {filteredNews.slice(0, 1).map((item) => (
+        {filteredNews.slice(1, 2).map((item) => (
           <div>
           <div key={item.id} className="content-card">
             <Link to={`/news/${item.id}`}>

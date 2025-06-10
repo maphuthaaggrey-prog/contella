@@ -143,7 +143,7 @@ button {
     overflow: hidden;
     text-overflow: ellipsis;
 }
-.main-container video {
+.main-container video, .main-container img {
     width: 100%;
     height: 400px;
     object-fit: cover;
@@ -1229,6 +1229,12 @@ margin-top: 3px;
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
       }
       .main-container video {
+        width: 100%;
+        height: 390px;
+        object-fit: cover;
+        object-position: center;
+    }
+      .main-container img {
         width: 100%;
         height: 390px;
         object-fit: cover;

@@ -331,4 +331,76 @@ export const lekompo = [
     "url": "https://www.youtube.com/watch?v=IINGirC34wg",
     "date": "May 23, 2025"
   },
+  {
+    "id": "1120519861",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/cZ4gNyavMxo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAL1OsmIPzl1u2ru0jUbCKRD4BOFQ",    
+    "title": "Lekompo Balcony Mix 6 with Shebeshxt; Kharishma & Naqua",
+    "url": "https://www.youtube.com/watch?v=cZ4gNyavMxo",
+    "date": "May 30, 2025"
+  },
+  {
+    "id": "4163517865",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/IDhRK9zXLs8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpqGUC_bRgJn1NmxZr51MhWM2UVw",    
+    "title": "Lekompo Mix 5 with Tribby wadi Bhozza; Zoli White Smoke; SmeezyOnthe Beat; Wendy Moon & DJ Snani",
+    "url": "https://www.youtube.com/watch?v=IDhRK9zXLs8",
+    "date": "May 2, 2025"
+  },
+  {
+    "id": "1906519865",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/g3sbFZBlN4Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB196NH2B8N8pF8ygWhmlD3C-6BKg",    
+    "title": "Lekompo Balcony Mix 4 with Shandesh, Kaycherlow NLL, Abi wa Mampela & Janesh",
+    "url": "https://www.youtube.com/watch?v=g3sbFZBlN4Q",
+    "date": "March 14, 2025"
+  },
+  {
+    "id": "2442035695",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/-cEYdL2-M20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIl96deFauk9jQ6X-G_T-Qt6g_PA",    
+    "title": "Lekompo Balcony Mix 3 with Ba Bethe Gashoazen; Bayor 97 & Mckay Johnson.",
+    "url": "https://www.youtube.com/watch?v=-cEYdL2-M20",
+    "date": "February 28, 2025"
+  },
+  {
+    "id": "1908676190",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/_1eLxrfSeCs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFQgZSgpMA8=&rs=AOn4CLCX2U3c5M6tDVhcZ-LZq8FzomR_qw",    
+    "title": "Lekompo Chillers (Balcony) Mix feat Shandesh",
+    "url": "https://www.youtube.com/watch?v=_1eLxrfSeCs",
+    "date": "December 18, 2024"
+  },
+  {
+    "id": "1120519865",
+    "author": "Lekompo Balcony Mix Sessions",
+    "type": "Visuals",
+    "profile": "https://yt3.googleusercontent.com/hWcAV8CVw0JegDk8be7iRtMi8fz6FPz6X0aF-DqfnvnIOXncnckfhlhW6XmCVWy2KqkW6qs7xg=s120-c-k-c0x00ffffff-no-rj",
+    "subscribers": "32K",
+    "channel": "https://www.youtube.com/@LekompoCultureMixSessions-g9o",
+    "thumbnail": "https://i.ytimg.com/vi/N50olA7ST44/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYyfxpL70kmpThNBKWRYKa_5hySg",    
+    "title": "Lekompo Chillas Mix 1 feat Janesh & Abi wa Mampela",
+    "url": "https://www.youtube.com/watch?v=N50olA7ST44",
+    "date": "November 23, 2024"
+  },
 ]
