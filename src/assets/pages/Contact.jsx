@@ -12,7 +12,7 @@ const Contact = () => {
       if (!videoLoaded) {
         setVideoLoaded(true);
       }
-    }, 10000); // 10 seconds fallback
+    }, 10000); 
 
     return () => clearTimeout(timeout);
   }, [videoLoaded]);

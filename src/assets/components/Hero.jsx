@@ -28,7 +28,7 @@ const ContentDisplay = () => {
                   <h3>{item.title}</h3>
                 </div>
                 <div className="button-container">
-                  <Link to={`/contentcreator/${item.id}`}>
+                  <Link to={`/creator/${item.id}`}>
                     <button className="read-more-btn">Biography</button>
                   </Link>
                 </div>
